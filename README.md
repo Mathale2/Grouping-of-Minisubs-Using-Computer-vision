@@ -1,6 +1,8 @@
 # Grouping-of-Minisubs-Using-Computer-vision
 
 Grouping of minisub stations is a sub project of the MOP: Maintenance Optimisation Project
+
+Cleaning up the mess!!!
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a4590ffe-6e39-4cd0-824d-bda8508687b3" />
 
 
